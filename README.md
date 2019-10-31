@@ -1,1 +1,1 @@
-# Brick-CAD
+# Image Recognition System
